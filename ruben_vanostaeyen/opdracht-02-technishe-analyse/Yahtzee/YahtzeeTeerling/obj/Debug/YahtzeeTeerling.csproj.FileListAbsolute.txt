@@ -1,0 +1,12 @@
+c:\users\joren\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe.config
+c:\users\joren\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csprojResolveAssemblyReference.cache
+c:\users\joren\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Form1.resources
+c:\users\joren\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Properties.Resources.resources
+c:\users\joren\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.TeerlingView.resources
+c:\users\joren\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csproj.GenerateResource.Cache
+c:\users\joren\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe
+c:\users\joren\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.pdb
+c:\users\joren\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.exe
+c:\users\joren\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.pdb
+C:\Users\Joren\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.allemaalView.resources
+C:\Users\Joren\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.scoreView.resources

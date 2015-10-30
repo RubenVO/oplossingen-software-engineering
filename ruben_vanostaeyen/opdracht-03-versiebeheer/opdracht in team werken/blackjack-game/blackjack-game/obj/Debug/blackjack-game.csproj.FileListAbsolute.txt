@@ -1,0 +1,13 @@
+E:\Software_engineering\Blackjack\blackjack-game\blackjack-game\bin\Debug\blackjack-game.exe.config
+E:\Software_engineering\Blackjack\blackjack-game\blackjack-game\bin\Debug\blackjack-game.exe
+E:\Software_engineering\Blackjack\blackjack-game\blackjack-game\bin\Debug\blackjack-game.pdb
+E:\Software_engineering\Blackjack\blackjack-game\blackjack-game\obj\Debug\blackjack_game.DealerView.resources
+E:\Software_engineering\Blackjack\blackjack-game\blackjack-game\obj\Debug\blackjack_game.GameControl.resources
+E:\Software_engineering\Blackjack\blackjack-game\blackjack-game\obj\Debug\blackjack_game.PlayerBetView.resources
+E:\Software_engineering\Blackjack\blackjack-game\blackjack-game\obj\Debug\blackjack_game.PlayerView.resources
+E:\Software_engineering\Blackjack\blackjack-game\blackjack-game\obj\Debug\blackjack_game.Properties.Resources.resources
+E:\Software_engineering\Blackjack\blackjack-game\blackjack-game\obj\Debug\blackjack_game.StartResetView.resources
+E:\Software_engineering\Blackjack\blackjack-game\blackjack-game\obj\Debug\blackjack-game.csproj.GenerateResource.Cache
+E:\Software_engineering\Blackjack\blackjack-game\blackjack-game\obj\Debug\blackjack-game.exe
+E:\Software_engineering\Blackjack\blackjack-game\blackjack-game\obj\Debug\blackjack-game.pdb
+E:\Software_engineering\Blackjack\blackjack-game\blackjack-game\obj\Debug\blackjack-game.csprojResolveAssemblyReference.cache
